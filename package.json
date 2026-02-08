@@ -1,11 +1,19 @@
 {
-  "name": "playwright",
+  "name": "playwrightautomation",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srivatsanr12/playwrightAutomation.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srivatsanr12/playwrightAutomation/issues"
+  },
+  "homepage": "https://github.com/Srivatsanr12/playwrightAutomation#readme",
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
